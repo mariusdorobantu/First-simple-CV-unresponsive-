@@ -1,0 +1,300 @@
+body {
+    position: absolute;
+    margin-left: 600px;
+    margin-top: 45px;
+    background-image: url('https://images.unsplash.com/photo-1560483580-3eab978d71a8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHBlbmNpbHxlbnwwfHwwfHw%3D&w=1000&q=80://c1.wallpaperflare.com/preview/506/249/173/hand-pencil-paper-drawing.jpgttps://c1.wallpaperflare.com/preview/506/249/173/hand-pencil-paper-drawing.jpg');
+    background-size: cover;
+}
+
+
+div {
+    float:left;
+    margin-top: 12px;
+    box-shadow: 10px red;
+}
+
+.stanga {
+    width: 250px;
+    height: 850px;
+    background: #D5F5F2;
+    box-shadow: 10px 10px 5px #fffcfc;
+}
+
+.dreapta {
+    width: 350px;
+    height: 850px;
+    background: #e0f7f4;
+    box-shadow: 10px 10px 5px #fffcfc;
+}
+
+.introducere {
+    width: 600px;
+    height: 100px;
+    background: #cdf0ec;
+    position: absolute;
+    margin: 0;
+    margin-top: 40px;
+    border-top: 2px #51ACAD solid;
+    border-bottom: 2px #51ACAD solid;
+   
+}
+
+
+p1 {
+    position: absolute;
+    margin-top: 24px;
+    margin-left: 40px;
+    font-size: 30px;
+    font-family: 'Courier New';
+}
+
+p2 {
+    position: absolute;
+    margin-top: 40px;
+    margin-left: -503px;
+    font-size: 15px;
+    font-family: 'Courier New';
+}
+
+img {
+    position: absolute;
+    margin-top: 175px;
+    margin-left: px;
+    width: 250px;
+}
+
+.casa {
+    font-size: 10px;
+    position: absolute;
+    margin-left: 550px;
+    margin-top: 1px;
+}
+
+.locatie {
+    font-size: 10px;
+    position: absolute;
+    margin-left: 552px;
+    margin-top: 18px;
+}
+
+.telefon {
+    font-size: 10px;
+    position: absolute;
+    margin-left: 552px;
+    margin-top: 36px;
+}
+
+.mail {
+    font-size: 10px;
+    position: absolute;
+    margin-left: 552px;
+    margin-top: 54px;
+}
+
+.detalii {
+    font-size: 11px;
+    margin-left: 425px;
+    text-align: right;
+    line-height: 1.5;
+    margin-top: -1px;
+}
+
+.tipuri {
+    margin-top: 590px;
+    margin-left: 40px;
+    border-top: 2px #51ACAD solid;
+    width: 170px;
+    padding-top: 5px;
+    letter-spacing: 0.5em;
+}
+
+.limbastanga {
+    position: absolute;
+    margin-top: 625px;
+    margin-left: 40px;
+}
+
+
+.limbadreapta {
+    position: absolute;
+    margin-top: 625px;
+    margin-left: 140px;  
+}
+
+.profiltitlu {
+    position: absolute;
+    margin-top: 380px;
+    margin-left: 40px;
+    border-top: 2px #51ACAD solid;
+    padding-top: 5px;
+    width: 170px;
+    letter-spacing: 0.5em;
+}
+
+.despreprofil {
+    position: absolute;
+    margin-top: 410px;
+    width: 180px;
+    margin-left: 40px;
+    
+}
+
+.titluaptitudini {
+    margin-top: 80px;
+    margin-left: 40px;
+    border-top: 2px #51ACAD solid;
+    padding-top: 5px;
+    width: 170px;
+    letter-spacing: 0.5em;
+}
+
+.aptitudinistanga {
+    margin-left: 40px;
+    margin-top: 5px;
+}
+
+.aptitudinidreapta {
+    margin-left: 2px;
+    margin-top: 5px;
+}
+
+.experientaeducatie {
+    position: absolute;
+    margin-top: 160px;
+    margin-left: 40px;
+    letter-spacing: 0.3em;
+}
+
+p23 {
+    position: absolute;
+    margin-top: 415px;
+    border-top: 2px #51ACAD solid;
+    padding-top: 5px;
+    width: 270px;
+}
+
+p27 {
+    position: absolute;
+    margin-top: 640px;
+    margin-left: 40px;    
+}
+
+p28 {
+    position: absolute;
+    margin-top: 605px;
+    margin-left: 40px;     
+}
+
+p32 {
+    position: absolute;
+    margin-top: 655px;
+    margin-left: 40px;
+}
+
+p33 {
+    position: absolute;
+    margin-top: 620px;
+    margin-left: 40px;    
+}
+
+.jobmanager {
+    position:absolute;
+    margin-top: 490px;
+    margin-left: 15px
+}
+
+p29 {
+    position:absolute;
+    margin-top: 470px;
+    margin-left: 8px;
+    width: 250px;
+    text-align: center;
+}
+
+p24 {
+    position: absolute;
+    margin-top: 440px;
+    margin-left: 40px;
+}
+
+.jobstoremanager {
+    position: absolute;
+    margin-top: 360px;
+    margin-left: 15px
+}
+
+p30 {
+    position:absolute;
+    margin-top: 340px;
+    margin-left: 8px;
+    width: 250px;
+    text-align: center;
+}
+
+#totcontinutul {
+    letter-spacing: 0.1em;
+    font-size: 12px;
+}
+
+p25 {
+    position: absolute;
+    margin-top: 310px;
+    margin-left: 40px;
+}
+
+.jobregionalmanager {
+    position: absolute;
+    margin-top: 230px;
+    margin-left: 15px;
+}
+
+p31 {
+    position: absolute;
+    margin-top: 210px;
+    margin-left: 40px;
+}
+
+p26 {
+    position: absolute;
+    margin-top: 180px;
+    margin-left: 40px;
+}
+
+p34 {
+    position: absolute;
+    border-top: 2px #51ACAD solid;
+    padding-top: 5px;
+    width: 270px;
+    margin-top: -8px;
+}
+
+p35 {
+    position:absolute;
+    margin-top: 520px;
+    border-top: 2px #51ACAD solid;
+    padding-top: 5px;
+    width: 270px;
+}
+
+p36 {
+    position: absolute;
+    margin-top: 570px;
+}
+
+p37 {
+    position:absolute;
+    margin-top: 750px;
+    margin-left: -175px;
+    font-family: 'Brush Script MT';
+    font-size: 20px;
+}
+
+.perioadalucrata {
+     font-family: arial;
+     font-size: 10px;    
+}
+
+.joburi {
+    word-spacing: 0.5em;
+    color:rgb(150, 149, 149)
+}
